@@ -8,7 +8,7 @@ If you have any question or would like to collaborate, feel free to reach out:
  
  
   - ✉ email: riccardotrave43@gmail.com</li>
-  - 🔗 linkedin: [florian-robert-leica](https://www.linkedin.com/in/riccardotrave/)</li>
+  - 🔗 linkedin: [Riccardo-Trave](https://www.linkedin.com/in/riccardotrave/)</li>
   
 
 <h3 align="left">Languages and Tools:</h3>
