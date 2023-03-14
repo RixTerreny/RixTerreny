@@ -6,9 +6,9 @@ I'm always looking to learn and experiment with new technologies, and I enjoy wo
 
 If you have any question or would like to collaborate, feel free to reach out:
   <ul>
+  <li></li>
   <li>✉ email: riccardotrave43@gmail.com</li>
-  <li></li>
-  <li></li>
+  <li>🔗 linkedin: [florian-robert-leica](https://www.linkedin.com/in/riccardotrave/)</li>
   </ul>
 
 <h3 align="left">Languages and Tools:</h3>
