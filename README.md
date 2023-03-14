@@ -10,7 +10,6 @@ If you have any question or would like to collaborate, feel free to reach out:
 
   - 🔗 linkedin: [Riccardo-Trave](https://www.linkedin.com/in/riccardotrave/)
   - ✉ email: riccardotrave43@gmail.com</li>
-  
   <br>
 
 <h3 align="left">Languages and Tools i use:</h3>
