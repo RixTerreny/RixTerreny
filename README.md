@@ -8,7 +8,7 @@ I'm always looking to learn and experiment with new technologies, and I enjoy wo
 Skills:  HTML / CSS / BOOTSTRAP / JS / VUE JS / PHP / LARAVEL / MySQL
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,vite,php,laravel,mysql,jqery)](https://skillicons.dev)
 
 
 
