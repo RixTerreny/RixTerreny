@@ -12,6 +12,7 @@ I'm always looking to learn and experiment with new technologies, and I enjoy wo
 <details>
 <summary>My Stats</summary>
 
+  <br></br>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RixTerreny&show_icons=true&locale=en&layout=compact&langs_count=8)
 
