@@ -4,7 +4,7 @@ a Jr. Full Stack Web Developer from Italy passionate about technology, music and
 
 I'm always looking to learn and experiment with new technologies, and I enjoy working with others to solve challenging problems.
 
-
+<br>
 
 If you have any question or would like to collaborate, feel free to reach out:
 
