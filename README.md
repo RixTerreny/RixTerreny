@@ -6,9 +6,9 @@ I'm always looking to learn and experiment with new technologies, and I enjoy wo
 
 If you have any question or would like to collaborate, feel free to reach out:
  
- 
+  - 🔗 linkedin: [Riccardo-Trave](https://www.linkedin.com/in/riccardotrave/)
   - ✉ email: riccardotrave43@gmail.com</li>
-  - 🔗 linkedin: [Riccardo-Trave](https://www.linkedin.com/in/riccardotrave/)</li>
+  
   
 
 <h3 align="left">Languages and Tools:</h3>
