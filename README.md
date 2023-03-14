@@ -18,7 +18,7 @@ I'm always looking to learn and experiment with new technologies, and I enjoy wo
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RixTerreny)
 
-  [![trophy](https://github-profile-trophy.vercel.app/?RixTerreny=ryo-ma&rank=A)](https://github.com/ryo-ma/github-profile-trophy)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=RixTerreny&column=-1&row=-3)
 </details>
 
 
