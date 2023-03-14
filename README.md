@@ -1,4 +1,4 @@
-# 👋🏻 Hi there, nice to meet you!
+# 👋🏻 Hello world!
 ## I'm Riccardo Trave,
 a Jr. Full Stack Web Developer from Italy passionate about technology, music and videogames.
 
