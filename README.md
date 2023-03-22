@@ -24,7 +24,7 @@ If you have any question or would like to collaborate, feel free to reach out:
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RixTerreny)
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=RixTerreny&margin-w=10&rank=A,B,AA,AAA,S,SS,SSS)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=RixTerreny&margin-w=10)
 
 </details>
 
