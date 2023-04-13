@@ -1,5 +1,5 @@
 # 👋🏻 Hello world! 
-## Hi I'm Riccardo, nice to meet you
+## I'm Riccardo, nice to meet you
 I'm a Jr. Full Stack Web Developer from Italy passionate about technology, music and videogames.
 
 
