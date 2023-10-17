@@ -7,7 +7,7 @@ I'm always looking to learn and experiment with new technologies, and I enjoy wo
 
 <br>
 
-If you have any question or would like to collaborate, feel free to reach out:
+If you have any questions or would like to collaborate, feel free to reach out:
 
   - 🔗 linkedin: [Riccardo-Trave](https://www.linkedin.com/in/riccardotrave/)
   - ✉ email: riccardotrave43@gmail.com</li>
