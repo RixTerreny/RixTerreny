@@ -8,6 +8,7 @@ I'm always looking to work and experiment with new technologies, and I enjoy col
 <br>
 If you have any questions or would like to collaborate, feel free to reach out:
 
+
  [![Linkedin: Riccardo Trave](https://img.shields.io/badge/-RiccardoTrave-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/RiccardoTrave/)](https://www.linkedin.com/in/riccardotrave/)
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/RixTerreny?label=follow&style=social)](https://github.com/RixTerreny)
 - ✉ email: riccardotrave43@gmail.com</li>
