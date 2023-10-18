@@ -12,7 +12,7 @@ If you have any questions or would like to collaborate, feel free to reach out:
  [![Linkedin: Riccardo Trave](https://img.shields.io/badge/-RiccardoTrave-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/RiccardoTrave/)](https://www.linkedin.com/in/riccardotrave/)
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/RixTerreny?label=follow&style=social)](https://github.com/RixTerreny)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RixTerrenyIT&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RixTerreny&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   - ✉ email: riccardotrave43@gmail.com</li>
 
 <h3 align="left">Languages and Tools i use:</h3>
