@@ -14,7 +14,6 @@ If you have any questions or would like to collaborate, feel free to reach out:
   <img src="https://img.shields.io/badge/Email%20me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" style="height: 20px; width: auto;">
 </a>
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/RixTerreny?label=follow&style=social)](https://github.com/RixTerreny)
-- ✉ email: riccardotrave43@gmail.com</li>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RixTerreny&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
