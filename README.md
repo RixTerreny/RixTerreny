@@ -10,7 +10,7 @@ If you have any questions or would like to collaborate, feel free to reach out:
 
 
  [![Linkedin: Riccardo Trave](https://img.shields.io/badge/-RiccardoTrave-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/RiccardoTrave/)](https://www.linkedin.com/in/riccardotrave/)
-<a href="mailto:francescopelliccia96@gmail.com">
+<a href="mailto:fra.pelliccia96@gmail.com">
   <img src="https://img.shields.io/badge/Email%20me-red?style=for-the-badge&logo=gmail" alt="Email me" style="height: 20px; width: auto;">
 </a>
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/RixTerreny?label=follow&style=social)](https://github.com/RixTerreny)
