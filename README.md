@@ -7,6 +7,10 @@ I'm always looking to work and experiment with new technologies, and I enjoy col
 
 If you have any questions or would like to collaborate, feel free to reach out:
 
+<a href="mailto:riccardotrave43@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20me-red?style=for-the-badge&logo=gmail" alt="Email me" style="height: 25px; width: auto;">
+</a>
+
 
  [![Linkedin: Riccardo Trave](https://img.shields.io/badge/-RiccardoTrave-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/RiccardoTrave/)](https://www.linkedin.com/in/riccardotrave/)
 [![Email me](https://img.shields.io/badge/Email%20me-red?style=for-the-badge&logo=gmail)](mailto:riccardotrave43@gmail.com)
