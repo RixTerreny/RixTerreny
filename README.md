@@ -1,8 +1,8 @@
 # 👋🏻 Hello world! 
 ## I'm Riccardo, nice to meet you
-I'm a Jr. Full Stack Web Developer from Italy passionate about technology, music and videogames.
+I'm a Jr. Full Stack Web Developer from Italy passionate about technology, music and languages.
 
-I'm always looking to work and experiment with new technologies, and I enjoy collaborating with others to solve challenging problems.
+I'm always looking to experiment and try new technologies, and I enjoy working with others to solve challenging problems.
 <hr>
 
 If you have any questions or would like to collaborate, feel free to reach out:
@@ -26,7 +26,7 @@ If you have any questions or would like to collaborate, feel free to reach out:
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RixTerreny&show_icons=true&locale=en&layout=compact&langs_count=8) 
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=RixTerreny&show_icons=true&locale=en&count_private=true) 
+  <!--![Stats](https://github-readme-stats.vercel.app/api?username=RixTerreny&show_icons=true&locale=en&count_private=true) -->
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RixTerreny)
 
