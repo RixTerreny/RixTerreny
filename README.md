@@ -2,12 +2,10 @@
 ## I'm Riccardo, nice to meet you
 I'm a Jr. Full Stack Web Developer from Italy passionate about technology, music and videogames.
 
-
 I'm always looking to work and experiment with new technologies, and I enjoy collaborating with others to solve challenging problems.
 
-<br>
 If you have any questions or would like to collaborate, feel free to reach out:
-
+<br>
 
  [![Linkedin: Riccardo Trave](https://img.shields.io/badge/-RiccardoTrave-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/RiccardoTrave/)](https://www.linkedin.com/in/riccardotrave/)
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/RixTerreny?label=follow&style=social)](https://github.com/RixTerreny)
