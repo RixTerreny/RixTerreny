@@ -20,6 +20,20 @@ If you have any questions or would like to collaborate, feel free to reach out:
 </a>
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/RixTerreny?label=follow&style=social)](https://github.com/RixTerreny)
 
+## Projects
+
+### 🌎 Boolflix [📄 Repo](https://github.com/RixTerreny/deliverboo-backend)
+Project developed for food business owner, developed in Laravel. The project focus is to create a back-office to manage the dish of a restaurant sold on a platform for food delivery.
+- FE Website & mobile app: Blade, Bootstrap.
+- BE : PHP, Laravel, MySQL.
+
+### 🍴 Project  [💻Full Stack Repo ](<!-- Inserisci qui il link alla repository-->)
+Breve descrizione del progetto, della dimensione del team e delle funzionalità. Scrivilo come se stessi facendo un pitch per un business.
+
+#### Tech stack:
+- FE Website:Esempi di tech stack
+- BE : Esempi di tech stack
+- Authentication: Esempi di tech stack
 
 <details>
 <summary>My Github Statistics!</summary>
