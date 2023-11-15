@@ -22,7 +22,7 @@ If you have any questions or would like to collaborate, feel free to reach out:
 
 ## Projects
 
-### 🌎 Boolflix [📄 Repo](https://github.com/RixTerreny/deliverboo-backend)
+### 🍴 Boolflix [📄 Repo](https://github.com/RixTerreny/deliverboo-backend)
 Project developed for food business owner, developed in Laravel. The project focus is to create a back-office to manage the dish of a restaurant sold on a platform for food delivery.
 - FE Website & mobile app: Blade, Bootstrap.
 - BE : PHP, Laravel, MySQL.
