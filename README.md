@@ -1,6 +1,6 @@
 # 👋🏻 Hello world! 
 ## I'm Riccardo, nice to meet you
-I'm a Jr. Full Stack Web Developer from Italy passionate about technology, music and languages.
+I'm a Full Stack Web Developer from Italy passionate about technology, music and languages.
 
 I'm always looking to experiment and try new technologies, and I enjoy working with others to solve challenging problems.
 
