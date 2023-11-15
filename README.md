@@ -23,12 +23,13 @@ If you have any questions or would like to collaborate, feel free to reach out:
 <details>
 <summary>My Github Statistics!</summary>
   <br>
+ 
+   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RixTerreny)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RixTerreny&show_icons=true&locale=en&layout=compact&langs_count=8) 
   
   <!--![Stats](https://github-readme-stats.vercel.app/api?username=RixTerreny&show_icons=true&locale=en&count_private=true) -->
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RixTerreny)
+
 
   <!--![trophy](https://github-profile-trophy.vercel.app/?username=RixTerreny&margin-w=10&rank=A,B,AA,AAA,S,SS,SSS)-->
 
