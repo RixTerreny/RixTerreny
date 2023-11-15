@@ -20,21 +20,6 @@ If you have any questions or would like to collaborate, feel free to reach out:
 </a>
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/RixTerreny?label=follow&style=social)](https://github.com/RixTerreny)
 
-<!--<details>-->
-<summary>My Github Statistics!</summary>
-  <br>
- 
-   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RixTerreny)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RixTerreny&show_icons=true&locale=en&layout=compact&langs_count=8) 
-  
-  <!--![Stats](https://github-readme-stats.vercel.app/api?username=RixTerreny&show_icons=true&locale=en&count_private=true) -->
-
-
-  <!--![trophy](https://github-profile-trophy.vercel.app/?username=RixTerreny&margin-w=10&rank=A,B,AA,AAA,S,SS,SSS)-->
-
-<!--</details>-->
-
 ## Projects
 
 ### 🍴 Boolflix
@@ -52,4 +37,17 @@ Breve descrizione del progetto, della dimensione del team e delle funzionalità.
 - Authentication: Esempi di tech stack
 [💻Full Stack Repo ](<!-- Inserisci qui il link alla repository-->)
 
+<details>
+<summary>My Github Statistics!</summary>
+  <br>
+ 
+   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RixTerreny)
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RixTerreny&show_icons=true&locale=en&layout=compact&langs_count=8) 
+  
+  <!--![Stats](https://github-readme-stats.vercel.app/api?username=RixTerreny&show_icons=true&locale=en&count_private=true) -->
+
+
+  <!--![trophy](https://github-profile-trophy.vercel.app/?username=RixTerreny&margin-w=10&rank=A,B,AA,AAA,S,SS,SSS)-->
+
+</details>
