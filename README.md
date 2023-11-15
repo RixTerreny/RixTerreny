@@ -20,7 +20,7 @@ If you have any questions or would like to collaborate, feel free to reach out:
 </a>
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/RixTerreny?label=follow&style=social)](https://github.com/RixTerreny)
 
-<details>
+<!--<details>-->
 <summary>My Github Statistics!</summary>
   <br>
  
@@ -33,7 +33,7 @@ If you have any questions or would like to collaborate, feel free to reach out:
 
   <!--![trophy](https://github-profile-trophy.vercel.app/?username=RixTerreny&margin-w=10&rank=A,B,AA,AAA,S,SS,SSS)-->
 
-</details>
+<!--</details>-->
 
 ## Projects
 
