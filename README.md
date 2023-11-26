@@ -28,9 +28,9 @@ Project developed for food business owner, developed in Laravel. The project foc
 - **Backend:** PHP, Laravel, MySQL.
 - **Database:** MySQL
 
-### [📄 Repo](https://github.com/RixTerreny/deliverboo-backend)
+### [📄 Repository](https://github.com/RixTerreny/deliverboo-backend)
 
-
+<br>
 
 ### 🍕 Pizzeria Management System
 
@@ -41,7 +41,7 @@ A comprehensive Java and Spring-based project tailored for pizzeria management. 
 - **Backend:** Java, Spring Framework
 - **Database:** MySQL
 
-### [📄 Repo](https://github.com/RixTerreny/spring-la-mia-pizzeria-security)
+### [📄 Repository](https://github.com/RixTerreny/spring-la-mia-pizzeria-security)
 
 
 
