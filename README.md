@@ -24,9 +24,26 @@ If you have any questions or would like to collaborate, feel free to reach out:
 
 ### 🍴 Boolflix
 Project developed for food business owner, developed in Laravel. The project focus is to create a back-office to manage the dish of a restaurant sold on a platform for food delivery.
-- FE Website & mobile app: Blade, Bootstrap.
-- BE : PHP, Laravel, MySQL.
+- **Frontend:** Website & mobile app: Blade, Bootstrap.
+- **Backend:** PHP, Laravel, MySQL.
+- **Database:** MySQL
+- **Version Control:** Git
 ### [📄 Repo](https://github.com/RixTerreny/deliverboo-backend)
+
+### 🍕 Pizzeria Management System
+
+A comprehensive Java and Spring-based project tailored for pizzeria management. The system provides a user-friendly interface for efficiently handling various aspects of a pizzeria's operations.
+
+**Technologies Used:**
+- **Frontend:** thymeleaf, Bootstrap
+- **Backend:** Java, Spring Framework
+- **Database:** MySQL
+- **Version Control:** Git
+
+### [📄 Repo](https://github.com/RixTerreny/spring-la-mia-pizzeria-security)
+
+This project aims to provide an efficient solution for pizzeria owners to manage their menu, ingredients, and discounts seamlessly.
+
 
 
 
