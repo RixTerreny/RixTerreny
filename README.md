@@ -26,7 +26,7 @@ If you have any questions or would like to collaborate, feel free to reach out:
 Project developed for food business owner, developed in Laravel. The project focus is to create a back-office to manage the dish of a restaurant sold on a platform for food delivery.
 - **Frontend:** Website & mobile app: Blade, Bootstrap.
 - **Backend:** PHP, Laravel.
-- **Database:** MySQL.
+- **Database:** MySQL. 
 
 ### [📄 Repository](https://github.com/RixTerreny/deliverboo-backend)
 
