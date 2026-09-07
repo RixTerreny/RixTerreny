@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/RixTerreny">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Vue.js+%26+Laravel+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%26+Spring+%7C+PHP+%26+Laravel;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
-I'm a Full Stack Web Developer from Italy passionate about technology, music and languages.
+I'm a Backend Developer from Italy passionate about technology, music and languages.
 
 I'm always looking to experiment and try new technologies, and I enjoy working with others to solve challenging problems.
 
