@@ -13,7 +13,7 @@ I'm a Backend Developer from Italy passionate about technology, music and langua
 I'm always looking to experiment and try new technologies, and I enjoy working with others to solve challenging problems.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RixTerreny/RixTerreny/main/matrix.svg" alt="matrix rain" width="100%" />
+  <img src="https://raw.githubusercontent.com/RixTerreny/RixTerreny/main/codewall.svg" alt="scrolling code wall" width="100%" />
 </p>
 
 If you have any questions or would like to collaborate, feel free to reach out:
