@@ -13,7 +13,7 @@ I'm a Backend Developer from Italy passionate about technology, music and langua
 I'm always looking to experiment and try new technologies, and I enjoy working with others to solve challenging problems.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RixTerreny/RixTerreny/main/galaxy.svg" alt="rotating letter galaxy" width="100%" />
+  <img src="https://raw.githubusercontent.com/RixTerreny/RixTerreny/main/mjwall.svg" alt="glitching prompt-text wordmark" width="100%" />
 </p>
 
 If you have any questions or would like to collaborate, feel free to reach out:
