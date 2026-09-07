@@ -1,5 +1,13 @@
-# 👋🏻 Hello world! 
-## I'm Riccardo, nice to meet you
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Riccardo%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="header" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/RixTerreny">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Vue.js+%26+Laravel+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+</p>
+
 I'm a Full Stack Web Developer from Italy passionate about technology, music and languages.
 
 I'm always looking to experiment and try new technologies, and I enjoy working with others to solve challenging problems.
@@ -20,33 +28,7 @@ If you have any questions or would like to collaborate, feel free to reach out:
 </a>
 [![GitHub DeveloperWay](https://img.shields.io/github/followers/RixTerreny?label=follow&style=social)](https://github.com/RixTerreny)
 
-## Projects
-
-### 🍴 Boolflix
-Project developed for food business owner, developed in Laravel. The project focus is to create a back-office to manage the dish of a restaurant sold on a platform for food delivery.
-- **Frontend:** Website & mobile app: Blade, Bootstrap.
-- **Backend:** PHP, Laravel.
-- **Database:** MySQL. 
-
-### [📄 Repository](https://github.com/RixTerreny/deliverboo-backend)
-
 <br>
-
-### 🍕 Pizzeria Management System
-
-A comprehensive Java and Spring-based project tailored for pizzeria management. The system provides a user-friendly interface for efficiently handling various aspects of a pizzeria's operations.
-
-**Technologies Used:**
-- **Frontend:** thymeleaf, Bootstrap.
-- **Backend:** Java, Spring Framework.
-- **Database:** MySQL.
-
-### [📄 Repository](https://github.com/RixTerreny/spring-la-mia-pizzeria-security)
-
-
-
-
-  <br>
 <details>
 <summary>My Github Statistics!</summary>
   <br>
@@ -61,3 +43,7 @@ A comprehensive Java and Spring-based project tailored for pizzeria management. 
   <!--![trophy](https://github-profile-trophy.vercel.app/?username=RixTerreny&margin-w=10&rank=A,B,AA,AAA,S,SS,SSS)-->
 
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+</p>
