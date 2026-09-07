@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Riccardo%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://raw.githubusercontent.com/RixTerreny/RixTerreny/main/mjwall.svg" alt="glitching prompt-text wordmark" width="100%" />
 </p>
 
 <p align="center">
@@ -11,10 +11,6 @@
 I'm a Backend Developer from Italy passionate about technology, music and languages.
 
 I'm always looking to experiment and try new technologies, and I enjoy working with others to solve challenging problems.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RixTerreny/RixTerreny/main/mjwall.svg" alt="glitching prompt-text wordmark" width="100%" />
-</p>
 
 If you have any questions or would like to collaborate, feel free to reach out:
 
