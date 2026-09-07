@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RixTerreny/RixTerreny/main/mjwall.svg" alt="glitching prompt-text wordmark" width="100%" />
+  <img src="https://raw.githubusercontent.com/Envric/Envric/main/mjwall.svg" alt="glitching prompt-text wordmark" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/RixTerreny">
+  <a href="https://github.com/Envric">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%26+Spring+%7C+PHP+%26+Laravel;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
@@ -19,20 +19,20 @@ If you have any questions or would like to collaborate, feel free to reach out:
 <a href="mailto:riccardotrave43@gmail.com">
   <img src="https://img.shields.io/badge/Email%20me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" style="height: 20px; width: auto; border:0;">
 </a>
-[![GitHub DeveloperWay](https://img.shields.io/github/followers/RixTerreny?label=follow&style=social)](https://github.com/RixTerreny)
+[![GitHub DeveloperWay](https://img.shields.io/github/followers/Envric?label=follow&style=social)](https://github.com/Envric)
 
 <br>
 <details>
 <summary>My Github Statistics!</summary>
   <br>
  
-   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RixTerreny)
+   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Envric)
 
 
-  <!--![Stats](https://github-readme-stats.vercel.app/api?username=RixTerreny&show_icons=true&locale=en&count_private=true) -->
+  <!--![Stats](https://github-readme-stats.vercel.app/api?username=Envric&show_icons=true&locale=en&count_private=true) -->
 
 
-  <!--![trophy](https://github-profile-trophy.vercel.app/?username=RixTerreny&margin-w=10&rank=A,B,AA,AAA,S,SS,SSS)-->
+  <!--![trophy](https://github-profile-trophy.vercel.app/?username=Envric&margin-w=10&rank=A,B,AA,AAA,S,SS,SSS)-->
 
 </details>
 
