@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Envric/Envric/main/mjwall.svg" alt="glitching prompt-text wordmark" width="100%" />
+  <img src="https://raw.githubusercontent.com/Envric/Envric/main/hero.svg" alt="dark futuristic AI data-surface hero background" width="100%" />
 </p>
 
 <p align="center">
